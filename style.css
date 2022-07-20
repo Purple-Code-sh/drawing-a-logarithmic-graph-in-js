@@ -14,5 +14,8 @@ body {
 
 #myCanvas{
     margin: auto;
-    background-color: blanchedalmond;
+    padding: 0;
+    border: 0;
+    background-color:ghostwhite;
+    text-align: center;
 }
