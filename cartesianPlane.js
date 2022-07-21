@@ -7,7 +7,7 @@ class CartesianPlane {
 
     draw(ctx){
         
-        ctx.strokeStyle = 'purple';
+        ctx.strokeStyle = 'plum';
         ctx.lineWidth = 1;
         
         ctx.beginPath();
