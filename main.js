@@ -8,3 +8,7 @@ const ctx = canvas.getContext("2d");
 const cartesianPlane = new CartesianPlane(250,canvas.width,canvas.height);
 
 cartesianPlane.draw(ctx);
+
+const logarithmicGraph = new LogarithmicGraph(6,canvas.width,canvas.height)
+
+logarithmicGraph.draw(ctx);
